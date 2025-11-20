@@ -47,17 +47,6 @@
 
 ---
 
-## 📸 Imagens do Projeto
-
-> *As imagens abaixo representam a organização visual geral do ambiente.*
-
-![banner](https://i.imgur.com/ZgXswZC.png)  
-![estrutura](https://i.imgur.com/rkiLeWN.png)
-
-*(Se quiser, posso substituir pelas imagens reais do seu repositório.)*
-
----
-
 ## 🔧 Como Usar
 
 ```bash
