@@ -50,7 +50,7 @@
 ## 🔧 Como Usar
 
 ```bash
-git clone https://github.com/RAZIEL-SEC/ARMAGENDON-SERVER.git
-cd ARMAGENDON-SERVER
+git clone https://github.com/RAZIEL-SEC/ARMAGEDON-SERVER.git
+cd ARMAGEDON-SERVER
 chmod +x setup.sh
 ./setup.sh
